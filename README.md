@@ -35,5 +35,3 @@ Acknowledgments
 This project utilizes pandas, numpy, scikit-learn, and Streamlit. Special thanks to the dataset providers and the open-source community for their valuable contributions.
 
 
-
-You can now paste this content into your README file or any other document as needed.
